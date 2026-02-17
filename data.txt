@@ -1,0 +1,73 @@
+Parambrata Acharjee is a B.Tech Computer Science and Engineering student at KIIT University, Bhubaneswar, graduating in 2027 with a CGPA of 8.8.
+
+He has over 2 years of experience in Java and C programming and strong foundations in Data Structures and Algorithms. He also has solid experience in Python programming, particularly in Machine Learning and AI-based systems.
+
+Technical Skills:
+
+Programming Languages:
+- Java
+- C
+- Python
+- JavaScript
+
+Machine Learning & AI:
+- Supervised and Unsupervised Learning
+- Logistic Regression
+- Classification and Regression Models
+- Data Preprocessing and Feature Engineering
+- Model Evaluation and Performance Metrics
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+LLM & AI Systems:
+- LangChain (Chains, Memory, RAG pipelines)
+- FAISS Vector Database
+- ChromaDB
+- Ollama (Local LLM Deployment)
+- Hugging Face Inference API
+- LangSmith (Tracing and Debugging)
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and Semantic Search
+
+Web & Backend Development:
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- FastAPI
+- Next.js (App Router)
+- REST API Development
+- Microservices Architecture
+
+Databases:
+- MongoDB
+- PostgreSQL
+- Prisma ORM
+
+Tools:
+- Git and GitHub
+- Streamlit
+- Docker (basic)
+- VS Code
+
+Projects:
+
+1. Online Compiler:
+Developed a web-based online compiler that allows users to write, compile, and execute code in multiple programming languages. The system securely handles code execution and provides real-time output.
+
+2. PriceSpark:
+Built a price comparison and analytics platform that tracks product prices and provides insights. The system includes backend APIs, database integration, and a user-friendly frontend interface.
+
+3. Machine Learning Project:
+Implemented supervised learning models including Logistic Regression and other classification algorithms using Scikit-learn. Worked on data preprocessing, feature scaling, model evaluation, and performance optimization.
+
+4. RAG-Based Local Chatbot:
+Designed and implemented a fully local Retrieval-Augmented Generation chatbot using LangChain, FAISS, ChromaDB, and Ollama. Integrated conversational memory and semantic search for contextual responses.
+
+Strengths:
+- Strong analytical and logical thinking
+- Experience in AI-driven applications and backend systems
+- Comfortable debugging and optimizing performance
+- Curious and fast learner in emerging technologies
+
+Career Objective:
+Parambrata aims to grow as a Software Development Engineer and Machine Learning Engineer specializing in scalable backend systems and intelligent AI-powered applications.
